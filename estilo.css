@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-image: url(img/terra4k.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid #000000;
+}
+.menu{
+    color: #fff;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.menu ul {
+    display: flex;
+    width: 277px;
+    height: 30px;
+    
+}
+
+.menu ul li{
+    display: inline;
+    margin: 0 8px;
+    
+}   
+h1{
+   width: 354px;
+   height: 77px;
+   top: 275px;
+   left: 1013px;
+}
+    
